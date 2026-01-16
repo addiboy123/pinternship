@@ -36,6 +36,9 @@ The internship will be conducted in **online mode only**.
 **1.4 Are there fixed timings or live sessions?**  
 The program includes scheduled live sessions, workshops, and mentorship meetings. The timings for these sessions will be conveyed well in advance.
 
+**1.5 Where can I find the Internship ID?**  
+The Internship ID will be mentioned in the offer letter sent by NPTEL POC.
+
 ---
 
 ## 2. Mode of Internship & Attendance
@@ -150,13 +153,43 @@ The Discontinuation Policy addresses prolonged inactivity at an administrative l
 ## 7. ViBe Platform
 
 **7.1 How do I log in to ViBe?**  
-Invite link → Continue as Student → Continue with Google → Dashboard.
+To log in to the ViBe platform, follow the steps below carefully:
+
+->Open the ViBe invite link shared with you via email.
+
+->Click Continue as Student when prompted.
+
+->Select Continue with Google.
+
+->Ensure you sign in using the same email ID (college email / registered email) that received the invite.
+
+->Once authenticated, you will be redirected to your ViBe Dashboard, where your enrolled course will be visible.
+
+⚠️ Logging in with a different email ID may result in access issues or missing course visibility.
 
 **7.2 Invite accepted but shows "No course enrolled"?**  
-Verify email → Check alias → Contact support.
+If you see “No course enrolled”:
+
+->Make sure you are logged in with the correct registered email ID.
+
+->Check if your college email has multiple aliases and try the correct one.
+
+->Log out and log in again once.
+
+->If the issue continues, contact support with your registered email ID and a screenshot.
 
 **7.3 Why are videos stuck or repeating?**  
-Sequential viewing, camera/mic access, lighting, and noise conditions matter.
+This may happen due to ViBe’s monitored learning system. Common reasons include:
+
+->Videos must be watched fully and in sequence (no skipping).
+
+->Camera and microphone permissions must be enabled.
+
+->Poor lighting or high background noise can affect playback.
+
+->Switching tabs or staying idle may restart the video.
+
+✅ For smooth playback, stay on the ViBe tab, keep your camera on, and watch videos in a quiet, well-lit environment.
 
 **7.4 Can I use a mobile or tablet?**  
 No, only **desktop/laptop** is supported.
@@ -182,6 +215,10 @@ In the meantime, you may try the following steps once:
 2. **Log out**, clear your browser cache, and **log in again**
 
 If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
+
+**7.7 Has the ViBe course progress of previous interns been reset?**  
+
+Yes, the ViBe progress of previous interns has been reset to ensure uniform tracking and evaluation for the current internship cohort. Participants above 80% of completion maybe considered for reinstation of progress.
 
 ---
 
