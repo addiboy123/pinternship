@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program Milestones
+title: Milestones & Completion Requirements
 permalink: /milestones/
 ---
 
@@ -33,20 +33,19 @@ permalink: /milestones/
 
 The Pinternship program follows a structured learning path with clear milestones to track your progress. Successful completion of the internship requires fulfilling all three mandatory components:
 
-### 1. ViBe Training (Core Learning)
-Complete all training modules on the ViBe platform covering TypeScript, React, Express.js, and MongoDB. This phase builds strong fundamentals before moving to advanced topics.
+<img src="../Genie-phases.png" alt="Pinternship phases" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
-### 2. Case Studies (Advanced Learning)
-Work through case studies based on real-world problems across different areas of the stack. These reinforce understanding through practical application and help you think through design decisions and trade-offs.
+**1. ViBe Training (Core Learning) -** Complete all training modules on the ViBe platform covering TypeScript, React, Express.js, and MongoDB. This phase builds strong fundamentals before moving to advanced topics.
 
-### 3. Projects (Practical Learning)
-Build projects that demonstrate your ability to work across the entire stack. Projects reflect real-world applications and serve as portfolio-worthy demonstrations of your skills.
+**2. Case Studies (Advanced Learning) -** Work through case studies based on real-world problems across different areas of the stack. These reinforce understanding through practical application and help you think through design decisions and trade-offs.
+
+**3. Projects (Practical Learning) -** Build projects that demonstrate your ability to work across the entire stack. Projects reflect real-world applications and serve as portfolio-worthy demonstrations of your skills.
 
 ---
 
-## Program Milestones & Evaluation
+## Milestones, Deadlines & Health Points
 
-Your performance is evaluated based on consistent progress, quality of work, and successful completion of all components. The table below outlines the key milestones and their contribution to your overall evaluation:
+Your performance is evaluated based on consistent progress, quality of work, and successful completion of all components. The table below outlines the key milestones and associated health points that add to your overall evaluation:
 
 | S.No. | Milestone | Deadline | HP (Health Points) |
 |-------|-----------|----------|-------------------|
@@ -64,11 +63,12 @@ Your performance is evaluated based on consistent progress, quality of work, and
 
 ## Getting Started
 
-To begin tracking your progress:
+To begin tracking your progress on the [Dashboards](../dashboard.html):
 1. Start with ViBe training modules
 2. Progress to case studies after building fundamentals
 3. Move to projects once core concepts are solidified
-4. Track your milestones and maintain consistent progress
+
+Track your milestones and maintain consistent progress.
 
 ---
 

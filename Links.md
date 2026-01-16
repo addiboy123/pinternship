@@ -17,6 +17,8 @@ links:
       url: "https://forms.gle/7Gkyqfc72Pzrpg5d6"
     - label: "HP Addition/Deduction Form(for VLED team only)"
       url: "https://forms.gle/guEXxPnZcom5TR1a7"
+    - label: "Pinternship T&C and Declaration Form"
+      url: "https://zfrmz.in/IlClYEoa5iIOpMRVt3Xc"
 ---
 
 [← Back]({{ site.baseurl }}/)
