@@ -13,6 +13,10 @@ links:
       url: "https://writer.zoho.in/writer/open/tk5iv07e84d64c700499b9023cd251b66ebc9"
     - label: "ViBe Issue Reporting Form"
       url: "https://forms.gle/g1AqdeUnuWgftrZ3A"
+    - label: "Activity Completion Confirmation Form(for students)"
+      url: "https://forms.gle/7Gkyqfc72Pzrpg5d6"
+    - label: "HP Addition/Deduction Form(for VLED team only)"
+      url: "https://forms.gle/guEXxPnZcom5TR1a7"
 ---
 
 [← Back]({{ site.baseurl }}/)

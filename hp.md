@@ -13,25 +13,45 @@ permalink: /hp/
 
 <!-- ## Health Points -->
 
-Health Points(HP) are a simple and human-centred way to guide learner behaviour in an online learning environment. Instead of focusing only on content completion, HP reflects *how* a learner participates in the system. When students act in alignment with the learning culture and community rules, they earn Health Points. When they act against the system or show low commitment, a deduction is reflected. Over time, Health Points act as a behavioural mirror, encouraging self-regulation, accountability, and consistency.
+Health Points (HP) are a scoring system used to track **individual and class participation and engagement throughout the internship**. Instead of focusing only on task completion, Health Points reflect how learners participate, collaborate, and follow defined communication and attendance norms. Positive participation leads to earning points, while actions that go against the system result in deductions. Over time, Health Points encourage accountability, consistency, and self-regulation.
 
 ### Why Health Points Matter
 
-Learning is not just about watching videos or submitting assignments. It is also about discipline, ownership, collaboration, and integrity. Health Points help reinforce these values gently, without constant monitoring. They reward positive actions such as consistency, initiative, and peer support, while discouraging behaviours like repeated delays, disengagement, or disregard for rules. In this way, HP supports a healthier and more responsible learning ecosystem.
+Learning is not just about watching videos or submitting assignments. It also involves discipline, ownership, collaboration, and respect for shared processes. Health Points reinforce these values by recognising consistent effort and peer support, while discouraging disengagement or rule violations. This helps maintain a healthy and responsible learning environment.
 
+### Individual Health Points
 
-### How Health Points Worked Earlier
+Individual Health Points track a learner’s **daily participation and behaviour** during the internship.
 
-Earlier, the Health Points system was entirely manual. Mentors would observe student behaviour and decide on point additions or deductions. These decisions were then communicated to a sheet manager, who updated the Health Points in a shared spreadsheet. While this approach worked initially, it became difficult to sustain as the number of students and mentors increased. The process was slow, heavily dependent on individuals, and prone to delays.
+#### How You Earn Individual Health Points
+
+You can earn individual Health Points by:
+- Helping peers on the **Cliq channel**
+- Completing the **milestones on the ViBE platform**
+- Completing the **milestones for Case Studies**
+- Completing the **assigned activities**
+
+Individual Health Points are awarded **once per day**.
+
+#### How You Lose Individual Health Points
+
+You lose individual Health Points for:
+- Not having your **camera on during Zoom sessions**
+- Asking queries **outside the designated Cliq channel**
+- Replying to queries **outside the proper thread** in the Cliq channel
+- Asking questions **during meetings** that are already addressed in the **FAQ or on the website**
+
+These rules help ensure structured communication and active participation.
+
+### Class Health Points
+
+Class Health Points are awarded to the **entire class** when the **number of students attending Zoom meetings meets the minimum required threshold**. These points promote collective responsibility and consistent attendance in live sessions.
 
 ### The Automated Health Points System
 
-To make the system scalable and smoother, we are moving to an automated workflow using Google Forms. Mentors will submit Health Point updates through a simple form whenever a student demonstrates extraordinary effort or requires a correction. Each submission will be recorded automatically and fetched by the main dashboard, where the updated Health Points will be reflected for students in near real time. This preserves mentor judgement while removing unnecessary manual steps.
+Health Points are updated through an automated workflow supported by Google Forms. When you complete the **milestones on the ViBE platform** or the **milestones for Case Studies**, a defined **percentage (x%) of Health Points is automatically credited** to you. For other activities, Health Points are updated after the relevant **form is submitted**, and the updates are reflected on the dashboard with minimal delay. Additionally, a **VLED team member may submit the form** to award or deduct Health Points for specific learner contributions or misconduct.
 
-### What Changes with Automation
+### Base (Credit) Health Points and Continuation Policy
 
-Automation reduces operational effort while improving transparency and consistency. Every Health Point change is logged, traceable, and reflected directly on the dashboard. Mentors spend less time coordinating updates, students get timely feedback, and the system remains fair and scalable across cohorts.
+Each learner starts with a **base (credit) Health Points value**, which is initially set to **100 HP**. All future additions and deductions are calculated as a **percentage of the learner’s current Health Points**, not as fixed values. Learners are **not allowed to remain at the base Health Points value for more than 5 days**. Each day a learner stays at the base Health Points level results in **one strike**. **Five consecutive strikes** will lead to **discontinuation from the internship**. Maintaining and improving Health Points through active participation is mandatory. If the **base Health Points value is updated** in the future (for example, from 100 to 150), learners who remain **below the new base Health Points value** and do not show progress will be **automatically discontinued from the internship**.
 
-### In Essence
-
-Health Points help keep the learning environment healthy by encouraging the right behaviours and discouraging harmful ones. Automating this process allows us to retain the human element of mentoring while building a system that is reliable, efficient, and ready to grow with the programme.
