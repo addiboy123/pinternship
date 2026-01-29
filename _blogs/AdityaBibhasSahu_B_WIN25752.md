@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Pinternship: Reflections on Growth"
+title: "Learning MERN Stack the Right Way: My NPTEL Internship Journey at IIT Ropar"
 author: Aditya Bibhas Sahu
 pinternship_id: WIN25752
 ---
 
-# NPTEL Internship at IIT Ropar – Learning, Practice, and Growth
+# Learning MERN Stack the Right Way: My NPTEL Internship Journey at IIT Ropar
 
 Recently, I had the opportunity to be a part of the **NPTEL Internship** offered by the **Indian Institute of Technology (IIT) Ropar**, and it has been a deeply enriching learning experience so far. The internship is thoughtfully structured into three progressive phases, each designed to build both conceptual clarity and practical confidence:
 
